@@ -2,7 +2,7 @@
 
 ## Link to Deployed Application
 
-Link:  
+Link:https://ayubmohamud.github.io/Weather-Dashboard/
 
 ## User Story
 
